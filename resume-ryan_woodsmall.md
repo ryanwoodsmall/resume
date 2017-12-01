@@ -37,11 +37,11 @@
 
 ## Professional Objective
 
-Experienced Linux/Unix systems administrator seeks challenging and enlightened workplace, ideally focusing on utilizing and extending free and open source technology in a virtualized computing environment.
+Experienced Linux/Unix systems administrator seeks challenging and enlightened workplace, ideally focusing on utilizing and extending free and open source technology in hardware, virtualized, embedded, and cloud computing environments.
 
 ## About Me
 
-My career goals include increasing system efficiency and process automation while emphasizing stability, performance and security. I have been involved in all levels of systems implementation and operation including design, build, maintenance and replacement cycles of large and small environments. As a Linux/Unix user and administrator for well over a decade, I feel at home in the environment and believe I would be a valuable asset to any organization in search of a dependable, enterprising systems administrator or engineer, a developer specializing in integration of diverse environments or an all-around technology specialist. Computing fascinates me both professionally and personally, and I consume technical information for both enjoyment and career development. A deep interest in technology allows me to be a self-starter and quick study.  This has proven to be advantageous in adapting to and working in complex, ever-changing environments. Interest in and experience with buildout, delivery and consumption of cloud-based services provides a valuable perspective on the future of IT, large- and small-scale systems design and implementation, and the computing industry as a whole.
+My career goals include increasing system efficiency and process automation while emphasizing stability, performance and security. I have been involved in all levels of systems implementation and operation including design, build, maintenance and replacement cycles of large and small environments. As a Linux/Unix user and administrator for well over a decade, I feel at home in the environment and believe I would be a valuable asset to any organization in search of a dependable, enterprising systems administrator or engineer, a developer specializing in integration of diverse environments or an all-around technology specialist. Computing fascinates me both professionally and personally, and I consume technical information for both enjoyment and career development. A deep interest in technology allows me to be a self-starter and quick study. This has proven to be advantageous in adapting to and working in complex, ever-changing environments. Interest in and experience with buildout, delivery and consumption of cloud-based services provides a valuable perspective on the future of IT, large- and small-scale systems design and implementation, and the computing industry as a whole.
 
 ## Skills
 
@@ -69,9 +69,9 @@ My career goals include increasing system efficiency and process automation whil
 
 **Big Data platforms:** Hadoop, HBase, ZooKeeper, Spark components from Apache, Cloudera, Hortonworks and MapR
 
-**Other services:** MySQL, PostgreSQL, QTSS, rsync, DNS, VPN endpoints
+**Other services:** MySQL, PostgreSQL, ODBC, QTSS, rsync, DNS, VPN endpoints, Bind, ISC DHCP, dnsmasq, ntp
 
-**Development:** GNU gcc/g++, make, gdb, GNU autotools (autoconf/automake/configure), Jenkins, CruiseControl, bitbake, rpmbuild, source package builds, Java development environments using Maven, standard Unix development and build environments
+**Development:** GNU gcc/g++, make, gdb, GNU autotools (autoconf/automake/configure), Jenkins, CruiseControl, bitbake, rpmbuild, source package builds, Java development environments using Maven and Nexus, standard Unix development and build environments
 
 **Standard environment:** Bourne shell (sh/bash) scripting, sed, awk, grep, etc., and scripts built around them; X11, cron, office suites and other desktop application suites
 
@@ -79,14 +79,47 @@ My career goals include increasing system efficiency and process automation whil
 
 **Cloud:** Amazon AWS EC2, S3, CloudFormation, CloudFront, EFS
 
+**Containers:** Docker, Mesos, custom chroot builds
+
 **Networking:** managed and unmanaged Layer 2 switching, with VLAN tagging/segregation; Layer 3 routing; Layer 4 request load balancing; Layer 7 load balancing with SSL and content-switching/redirection; Linux bridging, bonding and firewalling
 
-**Applications:** wiki, blog, and issue tracker installation, maintenance, and contribution
+**Applications:** code review, wiki, blog, code hosting and issue tracker installation, maintenance, and contribution, in local and hosted environments
 
-**Hardware:** Dell, HP, Sun, Apple and white box servers; industrial and embedded rackmount equipment; unmanaged, Brocade/Foundry, Dell and Force10 switching, routing and load balancing; NetScreen/Juniper, SonicWALL, Cisco ASA firewalling and IPSEC VPN endpoints; Dell, EqualLogic, EMC and JetStor iSCSI, Fiber Channel and NFS storage technologies in dedicated and shared scenarios
+**Monitoring:** Zabbix, SNMP, Hyperic, Big Brother
+
+**Hardware:** Dell, HP, Sun, Apple and white box servers; industrial and embedded rackmount equipment; unmanaged, Brocade/Foundry, Dell and Force10 switching, routing and load balancing; NetScreen/Juniper, SonicWALL, Cisco ASA firewalling and IPsec VPN endpoints; Dell, EqualLogic, EMC and JetStor iSCSI, Fiber Channel and NFS storage technologies in dedicated and shared scenarios
 
 
 ## Experience and Responsibilities
+
+### Splice Machine - Saint Louis, MO
+
+**Senior Systems Engineer** December 2014 - April 2017
+
+* Physically installing and configuring hosted data center compute and networking gear
+* Troubleshooting and replacing problem and failing hardware
+* Provisioning compute hardware, virtual machines and networks in data center and cloud environments for internal and external use
+* Maintaining large centralized storage repositories on HDFS
+* Building isolated and secure VPN-accessible proof-of-concept environments accessed by potential clients
+* Developing and maintaining automated operating system and base software installation and configuration methods for multiple platforms
+* Installing, maintaining and automating big data platform software from multiple vendors
+* Installing and maintaining artifact repositories for binary software
+* Building, packaging and distributing software prerequisites
+* Maintaining development, testing and release branches and tags of closed and open source software code repositories
+* Performing weekly sprint build and release freeze, tag, and bump processes for different codelines running on multiple versions of vendor platforms
+* Releasing generally available software directly accessible by customers for software installations and upgrades
+* Performing internal support functions in build and testing environments for developers, QA engineers, sales and customer support
+* Providing first-line support for networking and security-related questions
+* Providing as-needed support and troubleshooting of customer installations
+* Installing, administrating and maintaining continuous integration and code review environments
+* Performing day-to-day continuous integration job setup and build support
+* Writing and maintaining packaging and installation scripts for multiple vendor platforms
+* Submitting build and infrastructure-support patches for open and closed source products
+* Participating in daily stand-ups and as-needed code reviews and pull requests
+* Assisting in building out a software as a service platform
+* Building an all-in-one "big data appliance" in a self-contained rack shipped to and used at a customer site for pre-production and upgrade testing
+* Administrating hosted GitHub and Atlassian products and integrating with other internal and external services
+* Documenting day-to-day operations and development processes
 
 ### A123 Systems / NEC Energy Solutions - Chesterfield, MO
 
