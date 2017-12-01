@@ -45,7 +45,7 @@ My career goals include increasing system efficiency and process automation whil
 
 ## Skills
 
-**Operating systems:** Red Hat Enterprise/Fedora/CentOS/Scientific, Ubuntu, Debian, OpenEmbedded and MontaVista Carrier Grade Edition Linux; Mac OS X; FreeBSD, NetBSD and OpenBSD; IRIX; AIX; Solaris; Windows
+**Operating systems:** Red Hat Enterprise/Fedora/CentOS/Scientific, Ubuntu, Debian, OpenEmbedded/Yocto, MontaVista Carrier Grade, Alpine, Intel Clear Linux; macOS; FreeBSD, NetBSD and OpenBSD; IRIX; AIX; Solaris; Windows
 
 **Languages:** shell, Perl, C, SQL, Java, some C++/PHP/Python; ability to learn languages relatively quickly as needed
 
@@ -67,19 +67,23 @@ My career goals include increasing system efficiency and process automation whil
 
 **Mail services:** Zimbra, Postfix, qmail
 
+**Big Data platforms:** Hadoop, HBase, ZooKeeper, Spark components from Apache, Cloudera, Hortonworks and MapR
+
 **Other services:** MySQL, PostgreSQL, QTSS, rsync, DNS, VPN endpoints
 
-**Development:** GNU gcc/g++, make, gdb, GNU autotools (autoconf/automake/configure), CruiseControl, bitbake, rpmbuild, source package builds, Java development environments, standard Unix development and build environments
+**Development:** GNU gcc/g++, make, gdb, GNU autotools (autoconf/automake/configure), Jenkins, CruiseControl, bitbake, rpmbuild, source package builds, Java development environments using Maven, standard Unix development and build environments
 
-**Standard environment:** Bourne shell (sh/bash) scripting, sed, awk, grep, etc., and scripts built around them; X11, cron, office suites and other desktop apps
+**Standard environment:** Bourne shell (sh/bash) scripting, sed, awk, grep, etc., and scripts built around them; X11, cron, office suites and other desktop application suites
 
-**Virtualization:** VMware ESXi and vSphere, Xen/XenServer, KVM, VirtualBox, qemu, CloudStack, VMware desktop products, vCenter Converter
+**Virtualization:** VMware ESXi and vSphere, Xen/XenServer, KVM, VirtualBox, qemu, CloudStack, libvirt, VMware desktop products, vCenter Converter
+
+**Cloud:** Amazon AWS EC2, S3, CloudFormation, CloudFront, EFS
 
 **Networking:** managed and unmanaged Layer 2 switching, with VLAN tagging/segregation; Layer 3 routing; Layer 4 request load balancing; Layer 7 load balancing with SSL and content-switching/redirection; Linux bridging, bonding and firewalling
 
 **Applications:** wiki, blog, and issue tracker installation, maintenance, and contribution
 
-**Hardware:** Dell, HP, Sun, Apple and white box servers; industrial and embedded rackmount equipment; unmanaged, Brocade/Foundry and Force10 switching, routing and load balancing; NetScreen/Juniper and SonicWALL firewalling and IPSEC VPN endpoints; Dell, EqualLogic, EMC and JetStor iSCSI, Fiber Channel and NFS storage technologies in dedicated and shared scenarios
+**Hardware:** Dell, HP, Sun, Apple and white box servers; industrial and embedded rackmount equipment; unmanaged, Brocade/Foundry, Dell and Force10 switching, routing and load balancing; NetScreen/Juniper, SonicWALL, Cisco ASA firewalling and IPSEC VPN endpoints; Dell, EqualLogic, EMC and JetStor iSCSI, Fiber Channel and NFS storage technologies in dedicated and shared scenarios
 
 
 ## Experience and Responsibilities
