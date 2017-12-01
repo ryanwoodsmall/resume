@@ -37,11 +37,11 @@
 
 ## Professional Objective
 
-Experienced Linux/*nix systems administrator seeks challenging and enlightened workplace, ideally focusing on utilizing and extending free and open source technology in a virtualized computing environment.
+Experienced Linux/Unix systems administrator seeks challenging and enlightened workplace, ideally focusing on utilizing and extending free and open source technology in a virtualized computing environment.
 
 ## About Me
 
-My career goals include increasing system efficiency and process automation while emphasizing stability, performance and security. I have been involved in all levels of systems implementation and operation including design, build, maintenance and replacement cycles of large and small environments. As a Linux/*nix user and administrator for well over a decade, I feel at home in the environment and believe I would be a valuable asset to any organization in search of a dependable, enterprising systems administrator or engineer, a developer specializing in integration of diverse environments or an all-around technology specialist. Computing fascinates me both professionally and personally, and I consume technical information for both enjoyment and career development. A deep interest in technology allows me to be a self-starter and quick study.  This has proven to be advantageous in adapting to and working in complex, ever-changing environments. Interest in and experience with buildout, delivery and consumption of cloud-based services provides a valuable perspective on the future of IT, large- and small-scale systems design and implementation, and the computing industry as a whole.
+My career goals include increasing system efficiency and process automation while emphasizing stability, performance and security. I have been involved in all levels of systems implementation and operation including design, build, maintenance and replacement cycles of large and small environments. As a Linux/Unix user and administrator for well over a decade, I feel at home in the environment and believe I would be a valuable asset to any organization in search of a dependable, enterprising systems administrator or engineer, a developer specializing in integration of diverse environments or an all-around technology specialist. Computing fascinates me both professionally and personally, and I consume technical information for both enjoyment and career development. A deep interest in technology allows me to be a self-starter and quick study.  This has proven to be advantageous in adapting to and working in complex, ever-changing environments. Interest in and experience with buildout, delivery and consumption of cloud-based services provides a valuable perspective on the future of IT, large- and small-scale systems design and implementation, and the computing industry as a whole.
 
 ## Skills
 
@@ -57,7 +57,7 @@ My career goals include increasing system efficiency and process automation whil
 **Web services:** Apache, PHP, Tomcat, lighttpd, nginx, haproxy, stunnel SSL termination, clustered virtual hosting, CGI, HTTPS, httplog, cronolog  
 **Mail services:** Zimbra, Postfix, qmail  
 **Other services:** MySQL, PostgreSQL, QTSS, rsync, DNS, VPN endpoints  
-**Development:** GNU gcc/g++, make, gdb, GNU autotools (autoconf/automake/configure), CruiseControl, bitbake, rpmbuild, source package builds, Java development environments, standard *nix development and build environments  
+**Development:** GNU gcc/g++, make, gdb, GNU autotools (autoconf/automake/configure), CruiseControl, bitbake, rpmbuild, source package builds, Java development environments, standard Unix development and build environments  
 **Standard environment:** Bourne shell (sh/bash) scripting, sed, awk, grep, etc., and scripts built around them; X11, cron, office suites and other desktop apps  
 **Virtualization:** VMware ESXi and vSphere, Xen/XenServer, KVM, VirtualBox, qemu, CloudStack, VMware desktop products, vCenter Converter  
 **Networking:** managed and unmanaged Layer 2 switching, with VLAN tagging/segregation; Layer 3 routing; Layer 4 request load balancing; Layer 7 load balancing with SSL and content-switching/redirection; Linux bridging, bonding and firewalling  
