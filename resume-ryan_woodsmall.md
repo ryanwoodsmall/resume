@@ -87,7 +87,7 @@ My career goals include increasing system efficiency and process automation whil
 
 **Monitoring:** Zabbix, SNMP, Hyperic, Big Brother
 
-**Hardware:** Dell, HP, Sun, Apple and white box servers; industrial and embedded rackmount equipment; unmanaged, Brocade/Foundry, Dell and Force10 switching, routing and load balancing; NetScreen/Juniper, SonicWALL, Cisco ASA firewalling and IPsec VPN endpoints; Dell, EqualLogic, EMC and JetStor iSCSI, Fiber Channel and NFS storage technologies in dedicated and shared scenarios
+**Hardware:** Dell, HP, Sun, Apple and white box servers; industrial and embedded rackmount equipment; unmanaged, Brocade/Foundry, Ubiquiti, Dell and Force10 switching, routing and load balancing; NetScreen/Juniper, SonicWALL, Cisco ASA firewalling and IPsec VPN endpoints; Dell, EqualLogic, EMC and JetStor iSCSI, Fiber Channel and NFS storage technologies in dedicated and shared scenarios
 
 
 ## Experience and Responsibilities
