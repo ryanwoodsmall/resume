@@ -49,7 +49,7 @@ My career goals include increasing system efficiency and process automation whil
 
 **Languages:** shell, Perl, C, SQL, Java, some C++/PHP/Python; ability to learn languages relatively quickly as needed
 
-**Packaging/imaging:** RPM, FreeBSD ports, NetBSD pkgsrc, SystemImager, RHN, Fink, MacPorts, maintainable versioned source builds, yum repo creation/maintenance, opkg/ipk creation/scripting for embedded package management
+**Packaging/imaging:** RPM, PXE boot/install, RedHat Kickstart, FreeBSD ports, NetBSD pkgsrc, SystemImager, RHN, Fink, MacPorts, maintainable versioned source builds, yum repo creation/maintenance, opkg/ipk creation/scripting for embedded package management
 
 **Single sign-on:** Shibboleth, Pubcookie, ADFS/Shibboleth integration
 
