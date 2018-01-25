@@ -1,4 +1,4 @@
-# ﻿Ryan Woodsmall
+# Ryan Woodsmall
 
 ## Contact Information
 
