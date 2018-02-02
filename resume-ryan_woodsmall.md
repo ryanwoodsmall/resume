@@ -146,8 +146,11 @@ My career goals include increasing system efficiency and process automation whil
 ### Contegix - Saint Louis, MO
 
 **System Administrator** June 2008 - July 2012
+<br/>
 **Development and Operations** March 2011 - July 2012
+<br/>
 **Support Shift Lead** July 2009 - March 2011
+<br/>
 **Support Engineer** June 2008 - July 2009
 
 * Provisioning server platforms from racking to running
